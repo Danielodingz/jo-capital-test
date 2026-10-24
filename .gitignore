@@ -1,0 +1,7 @@
+node_modules
+dist
+.preview
+.scratch
+.next/
+next-env.d.ts
+out/
